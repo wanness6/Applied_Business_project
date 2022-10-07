@@ -52,6 +52,7 @@ gebruiker maakt keuze in de applicatie, deze kiest een object op welke de tracki
 Daarnaast kan hij ook aanduiden of ze de limiet willen overschrijden.
 
 ![](use_case.png)
+![](usecaseinfo.png)
 
 ## 6.3 Nice to have
 - Waarschuwing weergeven na keuze.
