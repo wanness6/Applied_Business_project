@@ -74,10 +74,10 @@ In dit project is een datamigratie niet nodig omdat er enkel sprake is van een n
 feature en niet een gehele nieuwe applicatie.
 
 # Beschrijving van eventuele impact op de huidige infrastructuur
-Bij het installeren van onze package zal er geen impact plaatsvinden op de org. Bij het activeren
-van onze package en bij het aanzetten van Field History Tracking op meerdere velden heeft dit wel het gevolg dat het geheugen een bepaald limiet zal hebben.
+Bij het installeren van onze package zal er geen impact plaatsvinden op de org. Wanneer de package wordt geactiveerd
+en Field History Tracking wordt aangezet op meerdere object velden heeft dit wel als gevolg dat het geheugen van de org een bepaald limiet zal hebben.
 
-In onze nice to have gaan wij de klant een melding geven wanneer het geheugen bijna vol zit en hoe hij/zij geheugen kan vrijmaken of 
+Als nice to have gaan wij de klant een melding geven wanneer het geheugen bijna vol zit en hoe hij/zij geheugen kan vrijmaken of 
 eventueel extra geheugen kan kopen moest dit nodig zijn.
 
 # Analyse van security en eventuele autorisatierollen
