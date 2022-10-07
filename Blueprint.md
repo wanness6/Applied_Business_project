@@ -1,9 +1,3 @@
-<style>
-  h1 {
-    color: red;
-  }
-</style>
-
 # Project inleiding
 <br><h3>BluePrint: The Customer Link</h3>
 <br>Wannes Strauven & Max Loubry
@@ -44,7 +38,15 @@ als de klant dan beschrijvingen van objecten of andere grote waardes wil bijhoud
 ## Scope
 
 # Planning
-<h1>POOOlanning<h1>
+| **Onderdeel**            | **Deadline**   |
+| -------------------- | -----------|
+| Kick-off & Interview | `30/09/2022` |
+| Blueprint | `14/10/2022` |
+| Mockups | `14/10/2022` |
+| **Tussentijdse evaluatie** | **`18/11/2022`** |
+| Development | `23/12/2022` |
+| Testing | `23/12/2022` |
+| **Finale oplevering** | **`23/12/2022`** |
 
 ## Hoofdlijnen
 
