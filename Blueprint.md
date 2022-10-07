@@ -1,20 +1,26 @@
 # Project inleiding
 BluePrint The Customer Link
 Wannes Strauven & Max Loubry
-
+Traject Bachelor Toegepaste Informatica
+3ITBUS
+Alec Wuyts, Peter Zajc
 
 # Opdrachtgever
+De klant Alec Wuyts van het bedrijf The Customer Link is de opdrachtgevende klant. wij worden geholpen onder begeleiding van Peter Zajc van The Customer Link.
 
 # Samenvatting
+De klant Maakt gebruik van een SalesForce platform en heeft ons de taak gegeven om zijn platform-ervaring te verbeteren met wat meer mogelijkheden.
+Hierdoor gaat hij en zijn medewerkers beter werk kunnen verrichten en grote fouten vermijden. 
+We zijn welkom om te werken op zijn kantoor en maken hier wekelijks gebruik van om samen te kunnen zitten met de klant. 
 
-# Situatie As-Is
-Huidig proces
-De Bank wilt hun kredietaanvragen digitaliseren, dit is nog te manueel en arbeidsgericht.
+# Situatie As-Is 
+De klant kan in zijn Salesforce platform gebruik maken van de Tracking history, die de aanpassingen van fields in een object bijhoudt en laat zien wanneer, wie
+deze heeft aangepast. 
 
-Voor het huidig proces belt de klant de kantoormedewerker op en vraagt naar een kredietaanvraag. Deze vraagt dan aan de klant voor de boekhoudkundige gegevens, zoeken deze op via kruispuntbank ondernemingen (KBO). Om daarna een mail te sturen naar de kredietbeoordelaar.
+![](AS-IS-AD.png)
+Hij kan op een object aanduiden welke fields hij wilt tracken en deze zullen dan als ze aangepast worden bijgehouden en getoont worden in de apps die gebruikt worden door de klant.
 
-De kredietbeoordelaar zal de ratio's berkenen en hierop volgt een beoordeling. De beoordeling komt terecht op een document met een goedkeuring of weigering. De klant zal dit document ontvangen en zien of zijn aanvraag goedgekeurd is of niet. Daarna schrijft de kredietbeoordelaar een document waarin zal staan hoe het krediet zal toegekent worden, ten behoeve van kantoor en klant. 
-
+![](AS-IS-AD2.png)
 # Probleemstelling
 
 # Situatie To-Be
@@ -24,7 +30,7 @@ De kredietbeoordelaar zal de ratio's berkenen en hierop volgt een beoordeling. D
 ## Scope
 
 # Planning
-We zullen werken volgens een mixed agile-Waterfall proces, dit houdt in dat we een zo volledig mogelijke blueprint maken maar dat we wel volgens het programmeren wekelijks samenkomen om te overlopen en feedback te krijgen van de klant. Er worden use cases gemaakt voor de requirements om duidelijk te maken wat de klant wil. We maken epics en sprints aan om elke week duidelijk te zien hoe we aan wat gaan beginnen zodat de klant mee is met de mvp van elke week.
+
 
 ## Hoofdlijnen
 
