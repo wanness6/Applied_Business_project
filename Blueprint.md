@@ -1,12 +1,13 @@
 # Project inleiding
-BluePrint The Customer Link
-Wannes Strauven & Max Loubry
-Traject Bachelor Toegepaste Informatica
-3ITBUS
-Alec Wuyts, Peter Zajc
+<br><h3>BluePrint: The Customer Link</h3>
+<br>Wannes Strauven & Max Loubry
+<br>Traject: Bachelor Toegepaste Informatica
+<br>3ITBUS
+<br>Alec Wuyts, Peter Zajc
 
 # Opdrachtgever
-De klant Alec Wuyts van het bedrijf The Customer Link is de opdrachtgevende klant. wij worden geholpen onder begeleiding van Peter Zajc van The Customer Link.
+Voor het vak Applied Business Project kregen wij van opdrachtgever Alec Wuyts de
+opdracht om een simpele Salesforce package te maken. <br>Wij worden voor dit project begeleid en ondersteund door Peter Zajc.
 
 # Samenvatting
 De klant Maakt gebruik van een SalesForce platform en heeft ons de taak gegeven om zijn platform-ervaring te verbeteren met wat meer mogelijkheden.
