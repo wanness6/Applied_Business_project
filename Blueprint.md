@@ -59,14 +59,22 @@ als de klant dan beschrijvingen van objecten of andere grote waardes wil bijhoud
 ### Testing
 
 # Functioneel design
-
+HIER KOMEN DE MOCKUPS
 # Technisch design
 
+### Salesforce Lightning
+### Apex
+
 # Beschrijving van de mogelijke interfaces
+In dit project is er geen sprake van een externe interface omdat
+de implementatie van het project uitsluiten in Salesforce zal plaatsvinden.
 
 # Beschrijving van eventuele datamigratie
+In dit project is een datamigratie niet nodig omdat er enkel sprake is van een nieuwe
+feature en niet een gehele nieuwe applicatie.
 
 # Beschrijving van eventuele impact op de huidige infrastructuur
+
 
 # Analyse van security en eventuele autorisatierollen
 
