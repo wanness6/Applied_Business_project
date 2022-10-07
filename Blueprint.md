@@ -38,6 +38,8 @@ als de klant dan beschrijvingen van objecten of andere grote waardes wil bijhoud
 ## Scope
 
 # Planning
+
+## Hoofdlijnen
 | **Onderdeel**            | **Deadline**   |
 | -------------------- | -----------|
 | Kick-off & Interview | `30/09/2022` |
@@ -48,10 +50,13 @@ als de klant dan beschrijvingen van objecten of andere grote waardes wil bijhoud
 | Testing | `23/12/2022` |
 | **Finale oplevering** | **`23/12/2022`** |
 
-## Hoofdlijnen
-
 ## Toelichting fases
 
+### Analyse
+
+### Development
+
+### Testing
 
 # Functioneel design
 
