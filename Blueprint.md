@@ -7,7 +7,7 @@
 
 # Opdrachtgever
 Voor het vak Applied Business Project kregen wij van opdrachtgever Alec Wuyts de
-opdracht om een simpele Salesforce package te maken. <br>Wij worden voor dit project begeleid en ondersteund door Peter Zajc.
+opdracht om een Salesforce package te maken. <br>Wij worden voor dit project begeleid en ondersteund door Peter Zajc.
 
 # Samenvatting
 De klant Maakt gebruik van een SalesForce platform en heeft ons de taak gegeven om zijn platform-ervaring te verbeteren met wat meer mogelijkheden.
