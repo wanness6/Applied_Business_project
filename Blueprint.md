@@ -22,7 +22,14 @@ deze heeft aangepast.
 Hij kan op een object aanduiden welke fields hij wilt tracken en deze zullen dan als ze aangepast worden bijgehouden en getoont worden in de apps die gebruikt worden door de klant.
 
 ![](AS-IS-AD2.png)
+
 # Probleemstelling
+De functie History tracking heeft echter enkele uitzonderingen waar je als gebruiker rekening mee moet houden (zie Salesforce: Field History Tracking). 
+Zo zal de functie niet meer dan 20 fields tegelijkertijd kunnen tracken.
+Ook kan de field die getrackt wordt niet bestaan uit meer dan 255 characters, zo kunnen long text areas en andere grote waarden niet worden bijgehouden.
+als de klant dan beschrijvingen van objecten of andere grote waardes wil bijhouden gaan die volgens de standaard regels van tracking history niet.
+
+![](Probleemstelling.png)
 
 # Situatie To-Be
 
@@ -36,7 +43,7 @@ Hij kan op een object aanduiden welke fields hij wilt tracken en deze zullen dan
 ## Hoofdlijnen
 
 ## Toelichting fases
-We werken wekelijks enkele dagen aan onze blueprint zodat deze duidelijk en volledig is. We zitten samen met onze product owners zodat deze op de hoogte zijn van wat we doen. Eens onze blueprint is goedgekeurd beginnen we aan de productiefase. Daarin maken we sprints en epics van onze scope en zien wat we elke week kunnen doen. We testen onze app na elke sprint en reviewen zo of we goed op schema zitten. Elke dinsdagavond komen we samen met de klant om al een kleine demo te bezien over de vooruitgang van onze app. Na elke bijeenkomst bespreken we wat er gezegd is en zullen we een analyse doen om te zien waar onze fouten zaten. Dit herhalen we wekelijks zodat we efficient en volledig tot een goed einde komen.
+
 
 # Functioneel design
 
