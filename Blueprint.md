@@ -1,3 +1,9 @@
+<style>
+  h1 {
+    color: red;
+  }
+</style>
+
 # Project inleiding
 <br><h3>BluePrint: The Customer Link</h3>
 <br>Wannes Strauven & Max Loubry
@@ -38,7 +44,7 @@ als de klant dan beschrijvingen van objecten of andere grote waardes wil bijhoud
 ## Scope
 
 # Planning
-
+<h1>POOOlanning<h1>
 
 ## Hoofdlijnen
 
