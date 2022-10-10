@@ -63,7 +63,7 @@ Daarnaast kan hij ook aanduiden of ze de limiet willen overschrijden.
 - De beveiliging van de salesforce setup niet gewijzigd worden.
 
 ## 6.5 Niet in scope
-- Verdere opleidingen worden niet gegeven, wel zal er een technisch document zijn.
+- Verdere opleidingen worden niet gegeven.
 - Verdere onderhoud van de applicatie zal niet worden voorzien na de oplevering.
 - andere limitaties van salesforce over tracking worden niet verwerkt.
 
@@ -84,16 +84,40 @@ Daarnaast kan hij ook aanduiden of ze de limiet willen overschrijden.
 
 
 # 8 Functioneel design
+Salesforce biedt de mogelijkheid om zeer efficiënt kleine applicaties te bouwen a.d.h.v. no-
+code, daarom wordt er gebruik gemaakt van Salesforce en Figma (een design tool) om mock-
+ups te maken. 
+
+## 8.1 limitaties overschrijden.
+een gebruiker kan via de gebouwde applicatie kiezen voor welke objecten hij/zij gebruik gaat maken van de limitatie. 
+De gerbuiker kan nog steeds de gekozen fields aanduiden en kiezen of deze mag overschreden worden.
+dit zal per gebruiker mogelijk zijn en deze regels van limitatie overschrijding zullen enkel als hij deze heeft aangeduid gelden.
+
 
 # 9 Technisch design
 
-# Beschrijving van de mogelijke interfaces
+# 10 Beschrijving van de mogelijke interfaces
 
-# Beschrijving van eventuele datamigratie
+# 11 Beschrijving van eventuele datamigratie
+er zal geen datamigratie plaatsvinden. de applicatie gebruikt de plaatselijke data aanwezig.
 
-# Beschrijving van eventuele impact op de huidige infrastructuur
+# 12 Beschrijving van eventuele impact op de huidige infrastructuur
+De applicatie gaat binnen een Salesforce omgeving gelanceerd worden, dus er zal geen 
+server worden voorzien om de applicatie te draaien. Verder is het ook een component die los 
+hangt van alle andere componenten, waardoor er geen conflicten ontstaan.
 
-# Analyse van security en eventuele autorisatierollen
+# 13 Analyse van security en eventuele autorisatierollen
+Salesforce heeft een security model van zichzelf. dit model werkt op 3 lagen Object, Field en record en elke laag heeft zijn eigen
+manier om data access toe te passen.
+- Object
+  - Object permissions
+- Field
+  - Field permissions
+- Record
+  - Org-wide defaults
+  - Role hierarchy
+  - Sharing rules
+  - Manual sharing
 
 # Documentatie
 Er zal een test worden voorzien na het maken van de applicatie en een user manual om de gebruiker van de applicatie goed wegwijs te maken.
