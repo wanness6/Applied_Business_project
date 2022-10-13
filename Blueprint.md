@@ -122,12 +122,16 @@ Voor de Salesforce mockups hebben we gebruik gemaakt van de tool "Sketch". Sketc
 hergebruiken voor onze huidige designs. Dit maakt het ook makkelijk en herkenbaar voor zowel de developer als de gebruiker van de applicatie.
 
 ## 9.1 Home pagina
+In deze mock-up kan u de home pagina van de applicatie vinden. Hierin komen de velden te staan die u wenst te tracken. Om een nieuw veld te tracken drukt u op de "New" knop, hiermee gaat u direct naar de setup pagina. 
 ![](Wireframe_Home.png)
 ## 9.2 Setup pagina
+In deze mock-up kan u de setup pagina van de applicatie vinden. Hierin kan u Field History Tracking instellen op een bepaald object en dan vervolgens de fields selecteren die u graag wilt tracken. Vervolgens kan u ook aanduiden of u Field History Tracking wilt activeren op deze record.
 ![](Wireframe_Setup.png)
-## 9.3 Home pagina (met betrekking tot het tracken van het industry field op het lead object)
+## 9.3 Home pagina (tracking industry field op het lead object)
+In deze mock-up kan u een testrecord vinden waarbij we het industrie veld gaan tracken van het lead object. 
 ![](Wireframe_Create.png)
 ## 9.4 Lead pagina (met het bijhorende Web Component)
+In deze mock-up ziet u voorbeeld waarbij u het web component kan toevoegen aan een pagina (in dit geval de lead page). Bij het component dat wij gaan bouwen krijgt u meteen te zien welke velden er gewijzigd zijn en ook door wie. 
 ![](Wireframe_Lead.png)
 
 ## 9.1 limitaties overschrijden.
