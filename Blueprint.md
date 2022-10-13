@@ -101,11 +101,11 @@ hergebruiken voor nieuwe Designs.
 ## Home pagina
 ![](Wireframe_Home.png)
 ## Setup pagina
-![](Wireframe - Setup.png)
+![](Wireframe_Setup.png)
 ## Created History Tracking Record
-![](Wireframe - Created Record.png)
+![](Wireframe_Create.png)
 ## Lead pagina
-![](Wireframe - Lead Page.png)
+![](Wireframe_Lead.png)
 
 ## 8.1 limitaties overschrijden.
 een gebruiker kan via de gebouwde applicatie kiezen voor welke objecten hij/zij gebruik gaat maken van de limitatie. 
