@@ -68,6 +68,8 @@ Daarnaast kan hij ook aanduiden of ze de limiet willen overschrijden.
 - andere limitaties van salesforce over tracking worden niet verwerkt.
 
 # 7 Planning
+
+## Hoofdlijnen
 | **Onderdeel**            | **Deadline**   |
 | -------------------- | -----------|
 | Kick-off & Interview | `30/09/2022` |
@@ -78,15 +80,31 @@ Daarnaast kan hij ook aanduiden of ze de limiet willen overschrijden.
 | Testing | `23/12/2022` |
 | **Finale oplevering** | **`23/12/2022`** |
 
-## Hoofdlijnen
-
 ## Toelichting fases
 
+## Analyse
+Voor de analyse fase van dit project hebben we met de klant gesproken en dat hebben we de opdracht gekregen om op  een eenvoudige manier
+field history tracking aan te kunnen zetten op alle object fields en datatypes, dit moet gebeuren via een zelfgemaakte package die wij in dit project zullen bouwen.
+
+Voordat wij hiermee van start zijn gaan hebben we eerst onderzoek gedaan naar de limitaties van Field History Tracking en waarom Salesforce
+deze oplegt. Uit onze analyse is gebleken dat deze limitatie te maken heeft met de opslag van de org. Een picklist of een rich text field heeft meer opslag nodig waardoor het geheugen van de org sneller vol zou raken.
+
+
+## Development
+Voor de development fase gaan wij aan de slag met Lightning Web Components & Apex. Dit zijn ingebouwde onderdelen in Salesforce die het
+voor ons eenvoudiger maken om een package te kunnen bouwen omdat deze onderdelen al in Salesforce geïntegreerd zijn.
 
 # 8 Functioneel design
-Salesforce biedt de mogelijkheid om zeer efficiënt kleine applicaties te bouwen a.d.h.v. no-
-code, daarom wordt er gebruik gemaakt van Salesforce en Figma (een design tool) om mock-
-ups te maken. 
+Voor de Salesforce mockups hebben we gebruik gemaakt van de tool "Sketch". Sketch maakt het mogelijk om elementen van Salesforce te
+hergebruiken voor nieuwe Designs.
+
+## Home pagina
+
+## Setup pagina
+
+## Created History Tracking Record
+
+## Lead pagina
 
 ## 8.1 limitaties overschrijden.
 een gebruiker kan via de gebouwde applicatie kiezen voor welke objecten hij/zij gebruik gaat maken van de limitatie. 
