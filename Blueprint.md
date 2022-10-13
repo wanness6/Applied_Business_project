@@ -82,7 +82,7 @@ Daarnaast kan hij ook aanduiden of ze de limiet willen overschrijden.
 
 ## Toelichting fases
 
-## Analyse
+### Analyse
 Voor de analyse fase van dit project hebben we met de klant gesproken en dat hebben we de opdracht gekregen om op  een eenvoudige manier
 field history tracking aan te kunnen zetten op alle object fields en datatypes, dit moet gebeuren via een zelfgemaakte package die wij in dit project zullen bouwen.
 
@@ -90,7 +90,7 @@ Voordat wij hiermee van start zijn gaan hebben we eerst onderzoek gedaan naar de
 deze oplegt. Uit onze analyse is gebleken dat deze limitatie te maken heeft met de opslag van de org. Een picklist of een rich text field heeft meer opslag nodig waardoor het geheugen van de org sneller vol zou raken.
 
 
-## Development
+### Development
 Voor de development fase gaan wij aan de slag met Lightning Web Components & Apex. Dit zijn ingebouwde onderdelen in Salesforce die het
 voor ons eenvoudiger maken om een package te kunnen bouwen omdat deze onderdelen al in Salesforce geïntegreerd zijn.
 
@@ -99,12 +99,13 @@ Voor de Salesforce mockups hebben we gebruik gemaakt van de tool "Sketch". Sketc
 hergebruiken voor nieuwe Designs.
 
 ## Home pagina
-
+[]! (Wireframe - Home.png)
 ## Setup pagina
-
+[]! (Wireframe - Setup.png)
 ## Created History Tracking Record
-
+[]! (Wireframe - Created Record.png)
 ## Lead pagina
+[]! (Wireframe - Lead Page.png)
 
 ## 8.1 limitaties overschrijden.
 een gebruiker kan via de gebouwde applicatie kiezen voor welke objecten hij/zij gebruik gaat maken van de limitatie. 
