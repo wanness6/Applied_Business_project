@@ -99,7 +99,7 @@ Voor de Salesforce mockups hebben we gebruik gemaakt van de tool "Sketch". Sketc
 hergebruiken voor nieuwe Designs.
 
 ## Home pagina
-![](Wireframe - Home.png)
+![](Wireframe_Home.png)
 ## Setup pagina
 ![](Wireframe - Setup.png)
 ## Created History Tracking Record
