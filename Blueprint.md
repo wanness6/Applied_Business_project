@@ -131,7 +131,7 @@ In deze mock-up kan u de setup pagina van de applicatie vinden. Hierin kan u Fie
 In deze mock-up kan u een testrecord vinden waarbij we het industrie veld gaan tracken van het lead object. 
 ![](Wireframe_Create.png)
 ## 9.4 Lead pagina (met het bijhorende Web Component)
-In deze mock-up ziet u voorbeeld waarbij u het web component kan toevoegen aan een pagina (in dit geval de lead page). Bij het component dat wij gaan bouwen krijgt u meteen te zien welke velden er gewijzigd zijn en ook door wie. 
+In deze mock-up ziet u voorbeeld waarbij u het web component(Record History) kan toevoegen aan een pagina (in dit geval de lead page). Bij het component dat wij gaan bouwen krijgt u meteen te zien welke velden er gewijzigd zijn en ook door wie. 
 ![](Wireframe_Lead.png)
 
 ## 9.1 limitaties overschrijden.
