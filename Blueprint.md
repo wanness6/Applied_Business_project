@@ -7,23 +7,24 @@
 
 # 2 Opdrachtgever
 Voor het vak Applied Business Project kregen wij van opdrachtgever Alec Wuyts de
-opdracht om een simpele Salesforce package te maken. <br>Wij worden voor dit project begeleid en ondersteund door Peter Zajc.
+opdracht om een Salesforce package te maken. <br>Wij worden voor dit project begeleid en ondersteund door Peter Zajc.
 
 # 3 Project woordenboek
 | **Woord**            | **Betekenis**   |
 | -------------------- | -----------|
 | `Org` | Een Org zijn de gegevens en metagegevens van uw specifieke organisatie. |
-| `Standard Object` |  |
-| `Custom Object`| |
-| `Field`| |
-| `Record`| |
-| `Package`| |
+| `Standard Object` | Standaardobjecten zijn objecten die standaard in Salesforce beschikbaar zijn. |
+| `Custom Object`| Dit zijn de objecten die u zelf heeft aangemaakt. |
+| `Field`| Velden in Salesforce vertegenwoordigen wat de kolommen vertegenwoordigen in relationele databases. |
+| `Record`| Een record is een rij in de datastructuur van Salesforce. |
+| `Package`| Is een pakket die kan worden geïnstalleerd zodat u de bijhorende functionaliteiten kan implementeren op uw org. |
 | `Field History Tracking`| |
 | `Package`| |
 | `Lightning Web Components`| |
-| `Apex`| |
-| `Sketch`| |
-| `Scope`| |
+| `Apex`| Is een object georiënteerd programmeertaal gemaakt door Salesforce. |
+| `Sketch`|Is een tool om mock-ups te maken|
+|`Mock-ups | Een visuele voorstelling/design van een website/applicatie. |
+| `Scope`| Wat wel en niet in het project zal worden opgenomen. |
 | `Frontend`| |
 | `Api`| |
 | `Object permissions`| |
