@@ -99,13 +99,13 @@ Voor de Salesforce mockups hebben we gebruik gemaakt van de tool "Sketch". Sketc
 hergebruiken voor nieuwe Designs.
 
 ## Home pagina
-[]! (Wireframe - Home.png)
+![](Wireframe - Home.png)
 ## Setup pagina
-[]! (Wireframe - Setup.png)
+![](Wireframe - Setup.png)
 ## Created History Tracking Record
-[]! (Wireframe - Created Record.png)
+![](Wireframe - Created Record.png)
 ## Lead pagina
-[]! (Wireframe - Lead Page.png)
+![](Wireframe - Lead Page.png)
 
 ## 8.1 limitaties overschrijden.
 een gebruiker kan via de gebouwde applicatie kiezen voor welke objecten hij/zij gebruik gaat maken van de limitatie. 
