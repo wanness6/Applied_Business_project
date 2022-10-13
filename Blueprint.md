@@ -167,7 +167,7 @@ knop. (Voor meer informatie zie Salesforce. What is Apex?)
 We maken enkel gebruik van Salesforce en de gegevens van de gebruiker intern op de opslag van hun platform. 
 
 # 12 Beschrijving van eventuele datamigratie
-er zal geen datamigratie plaatsvinden. de applicatie gebruikt de plaatselijke data aanwezig.
+Er zal in dit project geen datamigratie plaatsvinden. de applicatie gebruikt de plaatselijke data aanwezig.
 
 # 13 Beschrijving van eventuele impact op de huidige infrastructuur
 De applicatie gaat binnen een Salesforce omgeving gelanceerd worden, dus er zal geen 
