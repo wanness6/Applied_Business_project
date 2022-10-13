@@ -95,8 +95,30 @@ dit zal per gebruiker mogelijk zijn en deze regels van limitatie overschrijding 
 
 
 # 9 Technisch design
+## 9.1 gebruikte technologieën
+### 9.1.1 Lightning Web Components (LWC) 
+LWC is een front-end framework binnen Salesforce. Met dit framework 
+kan er een UI gebouwd worden voor een applicatie. Het bouwen van de 
+UI kan met html- en javascript code. Het is een vernieuwde versie van 
+de  originele  Lightning  Components,  ook  Aura  Components  genoemd. 
+De reden dat Salesforce een nieuw framework heeft gemaakt, is dat ze 
+mee  moesten  gaan  met  de  nieuwste  technologieën.  LWC  gebruikt  nu 
+Web Components technologieën en DOM rendering die zeer handig zijn 
+voor  de  moderne  single-page  applicaties.  Ze  zijn  veel  sneller,  veiliger, 
+gemakkelijker om mee te werken, herbruikbaar, bieden mobiele 
+ondersteuning, enzovoort. (Voor meer informatie zie Christophe 
+Coenraets. Introducing Lightning Web Components).
+
+### 9.1.2 Apex 
+Apex is een object georiënteerd programmeertaal dat in combinatie 
+met een API calls kan uitvoeren op de Salesforce servers. De manier 
+van code schrijven lijkt vrij goed op Java en gedraagt zich als database 
+stored procedures. Business logica kan zo worden toegepast. 
+Bijvoorbeeld een delete statement uitvoeren bij het drukken op een 
+knop. (Voor meer informatie zie Salesforce. What is Apex?)
 
 # 10 Beschrijving van de mogelijke interfaces
+We maken enkel gebruik van Salesforce en de gegevens van de gebruiker intern op de opslag van hun platform. 
 
 # 11 Beschrijving van eventuele datamigratie
 er zal geen datamigratie plaatsvinden. de applicatie gebruikt de plaatselijke data aanwezig.
