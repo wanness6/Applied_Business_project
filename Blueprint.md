@@ -12,27 +12,27 @@ opdracht om een Salesforce package te maken. <br>Wij worden voor dit project beg
 # 3 Project woordenboek
 | **Woord**            | **Betekenis**   |
 | -------------------- | -----------|
-| `Org` | Een Org zijn de gegevens en metagegevens van uw specifieke organisatie. |
-| `Standard Object` | Standaardobjecten zijn objecten die standaard in Salesforce beschikbaar zijn. |
+| `Org` | Dit zijn de gegevens en metagegevens van uw specifieke organisatie. |
+| `Standard Object` | Dit zijn objecten die standaard in Salesforce beschikbaar zijn. |
 | `Custom Object`| Dit zijn de objecten die u zelf heeft aangemaakt. |
 | `Field`| Velden in Salesforce vertegenwoordigen wat de kolommen vertegenwoordigen in relationele databases. |
 | `Record`| Een record is een rij in de datastructuur van Salesforce. |
-| `Package`| Is een pakket die kan worden geïnstalleerd zodat u de bijhorende functionaliteiten kan implementeren op uw org. |
-| `Field History Tracking`| |
-| `Package`| |
-| `Lightning Web Components`| |
+| `Package`| Is een pakket die kan worden geïnstalleerd op uw org zodat u de bijhorende functionaliteiten kan gebruiken. |
+| `Field History Tracking`| U kunt bepaalde velden selecteren om de veldgeschiedenis hiervoor bij te houden. |
+| `Lightning Web Components`| LWC is een front-end framework binnen Salesforce. |
 | `Apex`| Is een object georiënteerd programmeertaal gemaakt door Salesforce. |
 | `Sketch`|Is een tool om mock-ups te maken|
-|`Mock-ups | Een visuele voorstelling/design van een website/applicatie. |
+|`Mock-ups` | Een visuele voorstelling/design van een website/applicatie. |
 | `Scope`| Wat wel en niet in het project zal worden opgenomen. |
-| `Frontend`| |
-| `Api`| |
-| `Object permissions`| |
-| `Field permissions`| |
-| `Org wide defaults`| |
-| `Role hierachy`| |
-| `Sharing rules`| |
-| `Manual sharing`| |
+| `Grafische gebruikersomgeving (GUI)`| Onderdeel van het besturingssysteem of apart programma dat de gebruiker in staat stelt opdrachten aan het systeem te geven door te klikken op grafische objecten (pictogrammen, menu's). |
+| `Frontend`| Een gebruikersomgeving voor een applicatie, zoals een command-line-interface of een grafische gebruikersomgeving (GUI). |
+| `Api`| Is een verzameling definities op basis waarvan een computerprogramma kan communiceren met een ander programma. |
+| `Object permissions`| Specificeren de basistoegang die gebruikers hebben voor het maken, lezen, bewerken en verwijderen van records voor elk object. |
+| `Field permissions`| Specificeren het toegangsniveau voor elk veld in een object. |
+| `Org wide defaults`| Is het basisniveau van toegang dat de meest beperkte gebruiker zou moeten hebben. |
+| `Role hierachy`| Is een mechanisme om de gegevenstoegang tot de records op een salesforce-object te regelen op basis van de functierol van een gebruiker. |
+| `Sharing rules`| Dient voor deeltoegang uit te breiden van gebruikers in openbare groepen, rollen of gebieden. |
+| `Manual sharing`| Records delen en beheren via de GUI.  |
 
 # 4 Samenvatting
 De klant Maakt gebruik van een SalesForce platform en heeft ons de taak gegeven om zijn platform-ervaring te verbeteren met wat meer mogelijkheden.
@@ -105,17 +105,17 @@ Daarnaast kan hij ook aanduiden of ze de limiet willen overschrijden.
 
 ## 8.2 Toelichting fases
 
-### 8.2.1 Analyse
+### 8.2.1 Analyse fase
 Voor de analyse fase van dit project hebben we met de klant gesproken en dat hebben we de opdracht gekregen om op  een eenvoudige manier
 field history tracking aan te kunnen zetten op alle object fields en datatypes, dit moet gebeuren via een zelfgemaakte package die wij in dit project zullen bouwen.
 
 Voordat wij hiermee van start konden gaan hebben we eerst onderzoek gedaan naar de limitaties van Field History Tracking en waarom Salesforce
-deze oplegt. Uit onze analyse is gebleken dat deze limitatie te maken heeft met de opslag van de org waarbij bijvoorbeeld een picklist of een rich text field meer opslag nodig heeft dan een gewone text field, dit zorgt ervoor dat het geheugen van de org sneller vol zou kunnen raken.
+deze oplegt. Uit onze analyse is gebleken dat deze limitatie te maken heeft met de opslag van de org waarbij bijvoorbeeld een picklist of een rich text field meer opslag nodig heeft dan een gewone text field, dit zorgt ervoor dat het geheugen van de org sneller vol zou kunnen raken. Om dit probleem op te lossen trachten wij in de toekomst als nice to have functionaliteit de gebruiker de mogelijkheid te geven om via een zelfgemaakte tool bepaalde bestanden te verwijderen om zo terug geheugen vrij te maken. 
 
+Ook hebben wij onderzocht welke technologie we het beste zouden gebruiken. Voor dit Salesforce project gaan we gebruik maken van LWC (Lightning Web Components) en de programmeertaal Apex. Hierover meer bij de Development fase.
 
-### 8.2.2 Development
-Voor de development fase gaan wij aan de slag met Lightning Web Components & Apex. Dit zijn ingebouwde onderdelen in Salesforce die het
-voor ons eenvoudiger maken om een package te kunnen bouwen omdat deze onderdelen al in Salesforce geïntegreerd zijn.
+### 8.2.2 Development fase
+Voor de development fase gaan wij aan de slag met Lightning Web Components & Apex. Deze onderdelen zijn standaard beschikbaar in Salesforce, dit geeft ons de mogelijkheid om een package te bouwen voor dit project omdat we op deze manier rechtstreeks met de data van Salesforce kunnen werken.
 
 # 9 Functioneel design
 Voor de Salesforce mockups hebben we gebruik gemaakt van de tool "Sketch". Sketch maakt het mogelijk om elementen van Salesforce te
