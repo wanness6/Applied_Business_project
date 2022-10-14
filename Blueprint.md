@@ -165,7 +165,7 @@ Er zal in dit project geen datamigratie plaatsvinden. de applicatie gebruikt de 
 
 # 13 Beschrijving van eventuele impact op de huidige infrastructuur
 De applicatie gaat binnen een Salesforce omgeving gelanceerd worden, dus er zal geen 
-server worden voorzien om de applicatie te draaien. Verder is het ook een component die los 
+externe server worden voorzien om de applicatie te draaien. Verder is het ook een component die los 
 hangt van alle andere componenten, waardoor er geen conflicten ontstaan.
 
 # 14 Analyse van security en eventuele autorisatierollen
