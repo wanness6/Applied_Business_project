@@ -182,4 +182,4 @@ manier om data access toe te passen.
   - Manual sharing
 
 # 15 Documentatie
-In de appExchange zullen we een duidelijk overzicht voorzien over de applicatie. Via fotos en woordelijke beschrijving zullen we laten zien hoe de app in elkaar zit en het gebruik hiervan uitleggen.
+In de appExchange zullen we een duidelijk overzicht voorzien over de applicatie. Via fotos en woordelijke beschrijving zullen we laten zien hoe de app in elkaar zit en het gebruik hiervan uitleggen. 
