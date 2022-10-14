@@ -134,12 +134,6 @@ In deze mock-up kan u een testrecord vinden waarbij we het industrie veld gaan t
 In deze mock-up ziet u voorbeeld waarbij u het web component(Record History) kan toevoegen aan een pagina (in dit geval de lead page). Bij het component dat wij gaan bouwen krijgt u meteen te zien welke velden er gewijzigd zijn en ook door wie. 
 ![](Wireframe_Lead.png)
 
-## 9.1 limitaties overschrijden.
-Een gebruiker kan via de gebouwde applicatie kiezen voor welke objecten hij/zij gebruik gaat maken van de limitatie. 
-De gerbuiker kan nog steeds de gekozen fields aanduiden en kiezen of deze mag overschreden worden.
-dit zal per gebruiker mogelijk zijn en deze regels van limitatie overschrijding zullen enkel als hij deze heeft aangeduid gelden.
-
-
 # 10 Technisch design
 ## 10.1 gebruikte technologieën
 ### 10.1.1 Lightning Web Components (LWC) 
