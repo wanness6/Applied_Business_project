@@ -99,8 +99,8 @@ Daarnaast kan hij ook aanduiden of ze de limiet willen overschrijden.
 | Blueprint | `14/10/2022` |
 | Mockups | `14/10/2022` |
 | **Tussentijdse evaluatie** | **`18/11/2022`** |
-| Development | `23/12/2022` |
-| Testing | `23/12/2022` |
+| Development | `21/10/2022` - `23/12/2022` |
+| Testing | `16/12/2022` - `23/12/2022` |
 | **Finale oplevering** | **`23/12/2022`** |
 
 ## 8.2 Toelichting fases
