@@ -99,8 +99,8 @@ Daarnaast kan hij ook aanduiden of ze de limiet willen overschrijden.
 | Blueprint | `14/10/2022` |
 | Mockups | `14/10/2022` |
 | **Tussentijdse evaluatie** | **`18/11/2022`** |
-| Development | `21/10/2022` - `23/12/2022` |
-| Testing | `16/12/2022` - `23/12/2022` |
+| Development | `23/12/2022` |
+| Testing | `23/12/2022` |
 | **Finale oplevering** | **`23/12/2022`** |
 
 ## 8.2 Toelichting fases
@@ -127,10 +127,10 @@ In deze mock-up kan u de home pagina van de applicatie vinden. Hierin komen de v
 ## 9.2 Setup pagina
 In deze mock-up kan u de setup pagina van de applicatie vinden. Hierin kan u Field History Tracking instellen op een bepaald object en dan vervolgens de fields selecteren die u graag wilt tracken. Vervolgens kan u ook aanduiden of u Field History Tracking wilt activeren op deze record.
 ![](Wireframe_Setup.png)
-## 9.3 Home pagina (tracking industry field op lead object)
+## 9.3 Home pagina (tracking industry field op het lead object)
 In deze mock-up kan u een testrecord vinden waarbij we het industrie veld gaan tracken van het lead object. 
 ![](Wireframe_Create.png)
-## 9.4 Lead pagina (met bijhorende Web Component)
+## 9.4 Lead pagina (met het bijhorende Web Component)
 In deze mock-up ziet u voorbeeld waarbij u het web component(Record History) kan toevoegen aan een pagina (in dit geval de lead page). Bij het component dat wij gaan bouwen krijgt u meteen te zien welke velden er gewijzigd zijn en ook door wie. 
 ![](Wireframe_Lead.png)
 
@@ -182,4 +182,4 @@ manier om data access toe te passen.
   - Manual sharing
 
 # 15 Documentatie
-Er zal een test worden voorzien na het maken van de applicatie en een user manual om de gebruiker van de applicatie goed wegwijs te maken.
+In de appExchange zullen we een duidelijk overzicht voorzien over de applicatie. Via fotos en woordelijke beschrijving zullen we laten zien hoe de app in elkaar zit en het gebruik hiervan uitleggen.
